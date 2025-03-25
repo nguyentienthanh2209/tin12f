@@ -1,3 +1,5 @@
-.maudo {color: red;}
-.header{color: yellow;
-background-color: lightgray;text-align:center;padding: 20px;}
+.maudo{color:red;}
+.header{color:red; background-color:lightgray; text-align: center; padding: 20px; font-weight: solid;}
+
+.menu{}
+.menu a{}
