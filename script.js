@@ -1,11 +1,12 @@
-function login()
-(
-    let u = tên đăng nhập.value
-    let p = mật khẩu.value
-    if (u=="tienthanh" && p="123)
-    {
-        window.open()
-        document.getElementbyid(compiler).style.display="block";
-    }
-    else
-        document.write("sai tên đăng nhập hoặc mật khẩu")
+function.login()
+{
+  let u == username.value 
+  let p == password.value
+  if ( u == "1" && p == "1" )
+  {
+    window.open("home.html")
+    document.getElementById(compiler).style.display="block";
+  }
+  else
+    document.write("Wrong username or password")
+}
